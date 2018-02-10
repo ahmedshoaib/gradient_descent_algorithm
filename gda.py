@@ -1,5 +1,5 @@
 
-#please read the README.TXT file for format of input file(training data) an test file(containing test cases)
+#please read the README.TXT file for format of input file(training data) and test file(containing test cases)
 
 def expected_value(w,x):        #find H(X) for given weight array - w and X array -x
 	i = 0
